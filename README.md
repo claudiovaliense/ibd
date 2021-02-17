@@ -3,7 +3,7 @@
 ### Trabalho Prático #1
 
 ### Entrega
-Para completar este trabalho prático, deve-se expressar as consultas propostas no notebook `ibd_tp_01.ipynb` em `SQL` e submetê-lo até o dia 26/02/2021 às 23hrs:59min.
+Para completar este trabalho prático, deve-se expressar as consultas propostas no notebook `ibd_tp_01.ipynb` em `SQL` e submetê-lo até o dia 25/02/2021 às 23hrs:59min.
 
 ### Quickstart
 Para realização do Trabalho Prático $1 sugerimos fazer uso do [Google Colab](https://colab.research.google.com/). 
@@ -13,7 +13,7 @@ Acesse o [Google Colab](https://colab.research.google.com/) e:
 ```
 1. clique em 'File' >> 'Open notebook'
 2. selecione a aba 'Github'
-3. coloque Github URL: https://github.com/Ceceu/teaching_database
+3. coloque Github URL: https://github.com/claudiovaliense/ibd
 
 ``` 
 
