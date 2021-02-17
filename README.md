@@ -17,7 +17,7 @@ Acesse o [Google Colab](https://colab.research.google.com/) e:
 
 ``` 
 
-![alt text](https://github.com/claudiovaliense/ibd/blob/master/data/google_colab_github.png?raw=true "Logo Title Text 1")
+![alt text](https://github.com/claudiovaliense/ibd/blob/main/data/google_colab_github.png?raw=true "Logo Title Text 1")
 
 Será exibido todos os notebooks presentes neste repositório.
 
