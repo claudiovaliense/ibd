@@ -3,7 +3,7 @@
 ### Trabalho Prático #1
 
 ### Entrega
-Para completar este trabalho prático, deve-se expressar as consultas propostas no notebook `ibd_tp_01.ipynb` em `SQL` e submetê-lo até o dia 27/07/2021 às 23hrs:59min.
+Para completar este trabalho prático, deve-se expressar as consultas propostas no notebook `ibd_tp_01.ipynb` em `SQL` e submetê-lo até o dia 29/07/2021 às 23hrs:59min.
 
 ### Quickstart
 Para realização do Trabalho Prático $1 sugerimos fazer uso do [Google Colab](https://colab.research.google.com/). 
